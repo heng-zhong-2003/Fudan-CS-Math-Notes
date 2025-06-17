@@ -1,0 +1,1 @@
+- comp_theory_notes.pdf: Notes for Fundamentals of Computation Theory (COMP130023), mostly in English.
