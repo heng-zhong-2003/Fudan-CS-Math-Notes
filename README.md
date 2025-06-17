@@ -1,1 +1,2 @@
-- comp_theory_notes.pdf: Notes for Fundamentals of Computation Theory (COMP130023), mostly in English.
+- comp_theory_notes.pdf: Notes for *Fundamentals of Computation Theory* (COMP130023, 计算理论基础), mostly in English.
+- algorithms_notes.pdf: Notes for *Algorithm Design and Analysis* (COMP130011, 算法设计与分析	), written in interwoven English and Chinese.
